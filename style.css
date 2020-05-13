@@ -21,7 +21,7 @@ a, a:hover{
 /*header section start*/
 .header-section{
     width: 100%;
-    background: url(images/Homecover_4.png) center top no-repeat;
+    background: url(Homecover_4.png) center top no-repeat;
     background-size: cover;
     top: 0px 0px 100px;
 }
@@ -33,7 +33,7 @@ a, a:hover{
 }
 .header-section .navbar-light .navbar-nav .active>.nav-link{
     color: #8b68ee;
-    background: url(images/border.png) center bottom no-repeat;
+    background: url(border.png) center bottom no-repeat;
     font-weight: 600;
 
 }
@@ -46,7 +46,7 @@ a, a:hover{
 }
 .header-section .navbar-light .navbar-nav .nav-link:hover, .navbar-nav .btn-link:hover {
     color: #8b68ee;
-    background: url(images/border.png) center bottom no-repeat;
+    background: url(border.png) center bottom no-repeat;
     font-weight: 600;
     text-decoration: none;
 
@@ -129,7 +129,7 @@ a, a:hover{
 .highlight{
     width: 100%;
     padding: 40px 0px;
-    background: url(images/bnnr2.png) center top no-repeat;
+    background: url(bnnr2.png) center top no-repeat;
     background-size: cover;
 }
 .highlight img {
@@ -153,7 +153,7 @@ a, a:hover{
 .feature{
     width: 100%;
     padding: 80px 60px;
-    background: url(images/bnnr3.png) right bottom no-repeat;
+    background: url(bnnr3.png) right bottom no-repeat;
     
 }
 
@@ -205,14 +205,14 @@ a, a:hover{
 .intro{
     width: 100%;
     padding: 90px 0px;
-    background: url(images/bnnr4.png) center top no-repeat;
+    background: url(bnnr4.png) center top no-repeat;
     background-size: cover;
 }
 .bg-inner{
     width: 100%;
     padding: 160px 70px;
     margin-top: 60px;
-    background: url(images/banner4.png) center top no-repeat;
+    background: url(banner4.png) center top no-repeat;
 }
 .bg-inner p {
     width: 100%;
@@ -384,7 +384,7 @@ a, a:hover{
 .quote .client{
     width: 100%;
     padding-top:120px;
-    background: url(images/img.bcgrnd.png) top center no-repeat;
+    background: url(img.bcgrnd.png) top center no-repeat;
     background-size: cover;
     box-shadow: 1px 10px 15px #ccc;
    
@@ -427,7 +427,7 @@ a, a:hover{
 .footer{
     width: 100%;
     padding: 80px 0px;
-    background: url(images/footer.png) center top no-repeat;
+    background: url(footer.png) center top no-repeat;
     background-size: cover;
 }
 .faq{
